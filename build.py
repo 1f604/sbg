@@ -297,8 +297,6 @@ content = createindexpage(pagedict)
 
 
 with open("index.html", 'w+') as f: 
-
-
     f.write(content)
 
 print "Pages generated."
