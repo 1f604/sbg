@@ -23,5 +23,6 @@ And here's a quote:
 > 
 > -- <cite>Donald Knuth</cite>
 
+
 And here's a picture:
 <img src="../assets/exampleimage.jpg" alt="hi" class="inline"/>
