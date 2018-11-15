@@ -90,4 +90,7 @@ function makeAllSortable(parent) {
     while (--i >= 0) makeSortable(t[i]);
 }
 
-window.onload = function () {makeAllSortable();};
+window.onload = function () {
+    makeAllSortable();
+    sortTable(table, 0, 1);
+};
