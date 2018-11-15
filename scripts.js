@@ -92,5 +92,5 @@ function makeAllSortable(parent) {
 
 window.onload = function () {
     makeAllSortable();
-    sortTable(table, 0, 1);
+    sortTable(document.getElementById("entries"), 0, -1);
 };
