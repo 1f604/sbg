@@ -4,6 +4,7 @@ Static blog generator
 
 Put your blog posts as markdown files in the pages/category directories. 
 Put your assets in the assets directory. 
+And then just run build.py when you're done. 
 
 Example structure:
 
