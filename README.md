@@ -6,6 +6,8 @@ Put your blog posts as markdown files in the pages/category directories.
 Put your assets in the assets directory. 
 And then just run build.py when you're done. 
 
+If you want to preview changes without pushing, simply commit, view the generated pages, then do a manual git push afterwards. 
+
 Example structure:
 
 - pages
