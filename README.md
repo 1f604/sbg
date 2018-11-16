@@ -2,6 +2,8 @@
 
 Static blog generator
 
+This version is outdated. Please use the one on [my blog](https://github.com/1f604/1f604.github.io). 
+
 Put your blog posts as markdown files in the pages/category directories. 
 Put your assets in the assets directory. 
 And then just run build.py when you're done. 
